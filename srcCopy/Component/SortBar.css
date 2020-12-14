@@ -1,0 +1,55 @@
+.container{
+    width: 255px;
+    height: 640px;
+    background-color: #d9d9d9;
+    padding-top: 35px;
+    font-size: 12px;
+}
+
+.container_sort{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+
+.sort_sign{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+
+.sort_filter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+
+.sort_price{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+
+.sort_company{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.price_input{
+    margin-bottom: 15px;
+}
+
+input{
+    margin: 0px;
+}
